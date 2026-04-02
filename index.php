@@ -240,7 +240,7 @@
                     <label class="form-label-fancy">Identificación</label>
                     <div class="input-group-fancy">
                         <i class="fas fa-fingerprint"></i>
-                        <input type="text" name="dni" placeholder="Ingresa tu DNI" maxlength="8" required>
+                            <input type="text" name="dni" placeholder="Ingresa tu DNI" maxlength="8" required>
                     </div>
                 </div>
 
@@ -288,7 +288,7 @@
             </form>
 
             <div class="mt-4 text-center">
-                <a href="sistema.php?login=1" class="text-white-50 text-decoration-none small">
+                    <a href="index.php?login=1" class="text-white-50 text-decoration-none small">
                     <i class="fas fa-user-lock me-1"></i> Acceso Staff
                 </a>
             </div>
